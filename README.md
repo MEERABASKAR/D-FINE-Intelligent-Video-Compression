@@ -18,7 +18,6 @@ This project presents a deep learning-based intelligent surveillance video compr
 
 ## Project Documentation
 - Project Presentation (PPT)
-- Project Presentation (PDF)
 - Project Report (PDF)
 
 ## Project Domain
